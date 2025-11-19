@@ -14,9 +14,6 @@ A full-stack data application designed to streamline retail operations. This pro
 * **Relational Modeling:** Normalized SQL schema linking Products, Customers, and Sales.
 * **Business Intelligence:** Custom DAX measures to calculate Net Profit and Profit Margins dynamically.
 
-## 📸 Screenshots
-*(Place a screenshot of your Python App here)*
-*(Place a screenshot of your Power BI Dashboard here)*
 
 ## ⚙️ How to Run
 1.  Clone the repo.
